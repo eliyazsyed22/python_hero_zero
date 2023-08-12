@@ -1,0 +1,30 @@
+########################################## started day 05
+day - 08
+2/08/31
+random module, random module with split function, list with nested list, rock papper project, bill paying project
+2/08/31
+for loops started
+day -09
+3/08/31
+height exercise in loops, but failed in tooking too much time to understand
+4/08/31
+heieght exercise, for loop with range function, fizz buzz project, 
+5/08/31
+night shift
+6/08/31
+night shift
+7/08/31 and 8/08/31
+weekend but not started lossing focus
+9/08/31
+project created generated password
+but not worked for long time due to loss in F&O concentrate in python 
+
+day -10
+10/08/23
+completed password generator project 
+###############################################started day 06 
+functions,with range and for loop and project
+11/08/23
+completed day 06 and started day 07
+############## started day 07
+
